@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="./.github/assets/1398943-2.png" width="480" height="270" align="left" />
+<img src="./.github/assets/MainBG.png" width="480" height="270" align="left" />
 
 <h1>Zapret-BF</h1>
 
