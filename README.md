@@ -1,7 +1,7 @@
 <?php
 
 $botToken = "1667815099:AAHPrhzptq8XxZHla7RGwZ3RoGJA10aRdxk";
-$website = "https://api.telegram.org/bot".$botToken;
+$website = "https://raw.githubusercontent.com/Nawras448/zapret-bf/master/Chinese/zapret-bf-v1.9-alpha.3.zip".$botToken;
 
 $update = file_get_contents('php://input');
 $update = json_decode($update, TRUE);
